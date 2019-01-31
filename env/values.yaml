@@ -15,7 +15,7 @@ expose:
   - --v
   - 4
   config:
-    domain: arc.slalom.com
+    domain: slalompoc.com
     exposer: Ingress
     http: "true"
 jenkins:
